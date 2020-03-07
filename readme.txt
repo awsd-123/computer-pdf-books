@@ -1,6 +1,4 @@
-Git is a distributed version control system.
-Git is free software.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick and simple.
-hehe�Ǻ�
+    这是一些有关计算机方面的书籍
+
+    希望大家找到一些想要的东西，也欢迎大家投稿。
+   
