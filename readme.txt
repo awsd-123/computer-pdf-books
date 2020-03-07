@@ -2,3 +2,4 @@
 
     希望大家找到一些想要的东西，也欢迎大家投稿。
    
+    Stay hungry,stay foolish!
